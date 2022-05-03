@@ -27,4 +27,3 @@ jobs:
 
       - name: Unit Test
         run: mvn test # Executada os testes de unidade
-
